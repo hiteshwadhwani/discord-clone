@@ -3,7 +3,6 @@ import { UploadDropzone } from "@/lib/uploadthing";
 import { Divide, X } from "lucide-react";
 import Image from "next/image";
 import React from "react";
-import "@uploadthing/react/styles.css";
 
 
 interface FileUploadProps {
